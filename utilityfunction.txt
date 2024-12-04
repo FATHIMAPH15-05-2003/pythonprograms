@@ -1,0 +1,16 @@
+print("messege",end="\n")=>print a messege to console
+
+type(object)=>return data type of object 
+
+input("message")=read value from console return string value
+
+round(object,precision)
+
+len()
+
+range(start,stop,step)
+
+min(num1,num2)=>return smallest
+
+max(num1,num2)=>return largest
+
